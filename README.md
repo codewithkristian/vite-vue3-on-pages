@@ -7,11 +7,7 @@ This template should help get you started developing with Vue 3 in Vite, and dep
 To create a `my-project` directory using this template, run:
 
 ```sh
-$ npm init cloudflare my-project pages-vite3-vue
-# or
-$ yarn create cloudflare my-project pages-vite3-vue
-# or
-$ pnpm create cloudflare my-project vite3-vue
+$ git clone https://github.com/codewithkristian/vite-vue3-on-pages
 ```
 
 ## Recommended IDE Setup
